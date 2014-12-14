@@ -1,0 +1,7 @@
+.classpath
+.project
+CollegeBoard/NumberGuessingGame/.gradle
+CollegeBoard/NumberGuessingGame/.settings
+CollegeBoard/NumberGuessingGame/bin
+CollegeBoard/NumberGuessingGame/build
+CollegeBoard/NumberGuessingGame/logs
