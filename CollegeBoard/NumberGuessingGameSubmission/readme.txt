@@ -6,4 +6,4 @@ by Yue Chao Qin
 - You can have a max integer as the first argument (e.g. max number is 100 => "java -jar NumberGuessingGame-all-1.0.jar 100")
 - "docs" folder have javadocs
 - "source" folder have source files
-- You can clone the source code from github as well ()
+- You can clone the source code from github as well (https://github.com/yqin100/Interviews/tree/master/CollegeBoard/NumberGuessingGame)
